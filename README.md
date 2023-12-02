@@ -44,7 +44,7 @@ Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €; subchapter
 - Anonymity has been strengthened with more users, making it hard to find users. Over 750 000 users are using Tor daily using over 6000 relays worldwide.
 - The entry relay, or node is also the "guard", and it is picked up randomly and used only one time for the first encrypted hop.
 - Then the random middle node must be chosen for the middle encrypted hop, which then send the encrypted data to the exit node, and then the exit node sends the same encrypted data to the target.
-- There are over 6000 nodes from which the Tor client can choose, ans around after 10 mins the Tor circuit changes the nodes among the thousands to choose again.
+- There are over 6000 nodes from which the Tor client can choose, and around after 10 mins the Tor circuit changes the nodes among the thousands to choose again.
 - Because of the anonymity between the nodes, been a volunteer on middle node is safe and can avoid being wrongly suspected based on IP addressess.
 
 ## Tracking criminals 
@@ -62,9 +62,27 @@ Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €; subchapter
 - The most popular way is to get the true IP-address when investigating in Internet. The thing is, that Tor makes it extremely difficult.
 - Above, the methods are inefficient and may cause the risk for compromising, identifying the Tor user outside the Tor can be possible. The method of using every information from on-line and open-source can help to identify the dark net user
 - That's why the breakthrogh may take a while and investigators need to wait that the criminal makes a mistake.
-
  
 ## Quintin 2014: 7 Things You Should Know About Tor
+
+## 1.
+- Tor is still working, what means that NSA is still not able to completely reveal the anonymity in Tor.
+- Tor has not probably been broken at a cryptographic level either, because of its design of usage of the network traffic.
+
+## 2.
+- Criminals are not the only one's who are using Tor. For example military, activists, journalists and families are using it for safety, anonymousness and other reasons.
+
+## 3. 
+- There is not a military back door in the software.
+- Tor is an open source, so anyone can go and check the code and see that there is nothing.
+
+## 4.
+- Nobody has been prosecuted for running Tor relay.
+- Law enforcement can still contact you, if you are running an exit relay.
+- You should not concider criminal activities in Tor network
+
+## 5. 
+- Tor is easy to use, just download the browser
 
 
 a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
@@ -76,3 +94,10 @@ forum
 a well known organization
 c) In your own words, how does anonymity work in TOR? (e.g. how does it use: public keys, encryption, what algorithms? This subtask does not require tests with a computer.)
 d) What kind of the threat models could TOR fit? (This subtask does not require tests with a computer.)
+
+
+Sources:
+
+https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010
+https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
+
