@@ -28,8 +28,42 @@ Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €; subchapter
 
 ## How the The Onion Router Works?
 
-- 
+- The Tor directs the route of the user's internet traffic trough random relays on the Internet.
+- First the data is layered with elliptic curve cryptography. It is unbreakable with bruteforce at the moment.
+- When the coded information goes into the initial relay (called "entry"), it loses one layer of encryption and moves on to the next relay (known as "middle").
+- The middle relay removes another layer of encryption and transfers the coded data to the final relay (referred to as "exit").
+- Then the exit relay links to the user's chosen destination using an unendoded connection.
+- The exit relay don't know anything of the route traffic other than on single previous relay.
+- A random route chooses a different entry, middle and exit relay every ten minutes, which makes it impossible to track, or at least almost.
 
+## Couple important thins about Tor net
+
+- The volunteers are runing the Tor network relays
+- Anyone, also I could configure a server to be one of the relays used by countless users. It means, that my server simply remove one layer and forward to the next destination.
+- That is why the IP addressess that are involved in Tor network are not necessarily the IP address what is looked for, because it can simply be one volunteer running a Tor relay.
+- Anonymity has been strengthened with more users, making it hard to find users. Over 750 000 users are using Tor daily using over 6000 relays worldwide.
+- The entry relay, or node is also the "guard", and it is picked up randomly and used only one time for the first encrypted hop.
+- Then the random middle node must be chosen for the middle encrypted hop, which then send the encrypted data to the exit node, and then the exit node sends the same encrypted data to the target.
+- There are over 6000 nodes from which the Tor client can choose, ans around after 10 mins the Tor circuit changes the nodes among the thousands to choose again.
+- Because of the anonymity between the nodes, been a volunteer on middle node is safe and can avoid being wrongly suspected based on IP addressess.
+
+## Tracking criminals 
+
+- Tor network is more than only using the web anonymously.
+- It allows terrorists and other criminals such as pedofiles, drug sellers and users, and all other human trashes to comunicate, share files and attack without the possibility to get caught using the Tor network
+- Practically every government is working on deanonymizing Tor to find terrorists and criminals, or trying to prohibit people from accessing the Internet
+- The biggest weakness in Tor is the user.
+- The user should not customize the browser, as it is preconfigured with security in mind
+- Antoher thing to stay anonymous is, do not share your location. Many websites ask that, but should never allow.
+- A user who wants to stay anomymous should not ever download videos and animation from internet, as they requires often plugins to be installed, because the same plugins can allow the true IP address collected
+- There has been conducted for years on Tor to find identity users, vulnerabilities and decrypt data.
+- Other methods include s gaining control of many entry and exit nodes as possible to identify users and correlate the traffic.
+- On method is a Man-in-the-middle attack to bypass the security of users in Tor by injecting a capture service between the user and destination.
+- The most popular way is to get the true IP-address when investigating in Internet. The thing is, that Tor makes it extremely difficult.
+- Above, the methods are inefficient and may cause the risk for compromising, identifying the Tor user outside the Tor can be possible. The method of using every information from on-line and open-source can help to identify the dark net user
+- That's why the breakthrogh may take a while and investigators need to wait that the criminal makes a mistake.
+
+ 
 ## Quintin 2014: 7 Things You Should Know About Tor
 
 
