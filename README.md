@@ -86,6 +86,23 @@ Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €; subchapter
 
 
 a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
+I googled tor net and the first choice was tor
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/61c681b6-336a-4217-84a6-da8a513a887e)
+
+I had to think twice if I dare to download this, because this is my work computer, not my own...
+
+But I did it :-)
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/c3ea98ed-8e83-4902-92d4-e2c75aad71de)
+
+and now I'm on the other side, the dark side of the computer world.
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/187028e0-9225-4079-99e7-f1ae0b715302)
+
+
+
+
+
 b) Browse TOR network, find, take screenshots and comment
 search engine for onion sites
 marketplace
