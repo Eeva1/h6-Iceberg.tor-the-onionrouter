@@ -132,7 +132,6 @@ First I only found some artichels about how to buy drugs online, online pharmacy
 But this page is defenetly a scam... or I would never use my bitcoins there...
 
 I am overwhelmed how this dark net is working.. that you find quite easily everything what is illegal, and the markets are huge there.
-
 I am so old school person, that I would never ever trust on encrypted web page, messaging or identity, for making a crime on the dark net.
 
 
