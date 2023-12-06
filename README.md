@@ -86,12 +86,13 @@ Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €; subchapter
 
 
 a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
+
 I googled tor net and the first choice was tor
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/61c681b6-336a-4217-84a6-da8a513a887e)
 
 I had to think twice if I dare to download this, because this is my work computer, not my own...
 
-But I did it :-)
+But I did it :-) Isn't this almost the same than my moving VPN connection? 
 
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/c3ea98ed-8e83-4902-92d4-e2c75aad71de)
 
@@ -99,17 +100,35 @@ and now I'm on the other side, the dark side of the computer world.
 
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/187028e0-9225-4079-99e7-f1ae0b715302)
 
+The browser suggested for changing the language to English so that my surfing is even more private, so I changed.
+
+I started browsing Tor... and searched first global arms dealers and was looking if there is a possibility to buy guns online, and yes there is. Actually I've never even checked from the internet, is there same kinds of online shops, so I don't know if this is some how different...
+
+The first time when I tryed some online gun shop pages, I could not get in because I didn't have the permission, but then I found an arms dealer: 
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/296ca09f-80d5-4d30-9291-2c0d3c7b1c2b)
+
+There is lots of different kinds of guns, and not even so expensive..
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/2a77859c-601b-4f45-9a6a-8a520414d513)
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/68f8fff3-24f8-4dc4-b0fe-b198e6895ff7)
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/f29f56af-b6c6-420b-8217-bbb68940cfb8)
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/b9cc09da-ba9c-47bd-a5fb-ae3da91df167)
 
 
+It's horrible how easy you can buy a gun in the USA. 
 
+But I'm not interested of guns so I changed the subject to drugs and went for looking them :-D
 
-b) Browse TOR network, find, take screenshots and comment
-search engine for onion sites
-marketplace
-fraud
-forum
+b) Browse TOR network, find, take screenshots and comment. search engine for onion sites, marketplace, fraud, forum,
 a well known organization
-c) In your own words, how does anonymity work in TOR? (e.g. how does it use: public keys, encryption, what algorithms? This subtask does not require tests with a computer.)
+
+c) Tor browser helps to hide my identity by encrypting my traffic and sending it through a series of randomly picked relays in the Tor. That way the data traces back to random Tor serves rather than me. 
+
+
 d) What kind of the threat models could TOR fit? (This subtask does not require tests with a computer.)
 
 
