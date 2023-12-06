@@ -129,18 +129,19 @@ First I only found some artichels about how to buy drugs online, online pharmacy
 
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/0fdf4530-a134-4c3c-85ea-a6b15562ca6c)
 
-But this page is defenetly a scam... or I would never use my bitcoins there...
+But this page is defenetly a scam... or I would never try to order anything there...
 
-I am overwhelmed how this dark net is working.. that you find quite easily everything what is illegal, and the markets are huge there.
+I am overwhelmed how this dark net is working.. that you find quite easily everything illegal, and the markets are huge there.
 I am so old school person, that I would never ever trust on encrypted web page, messaging or identity, for making a crime on the dark net.
 
+Getting into these pages took like 5 minutes to download and after that they stucked.. So maybe the pages were a scam also..? 
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/60d0e9e0-eca4-46bf-863d-d50e4147be4d)
 
 
+## c) Tor browser helps to hide my identity by encrypting my traffic and sending it through a series of randomly picked relays in the Tor. That way the data traces back to random Tor serves rather than me. 
 
-
-c) Tor browser helps to hide my identity by encrypting my traffic and sending it through a series of randomly picked relays in the Tor. That way the data traces back to random Tor serves rather than me. 
-
-d) What kind of the threat models could TOR fit?
+## d) What kind of the threat models could TOR fit?
 
 PASTA or STRIDE?
 
@@ -156,5 +157,7 @@ https://aptori.dev/blog/stride-vs-pasta-a-comparison-of-threat-modeling-methodol
 
 https://purecokeshop.com/
 
+https://terokarvinen.com/2023/trust-to-blockchain/#evaluation
 
+https://purepuff.com/
 
