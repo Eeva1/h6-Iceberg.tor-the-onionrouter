@@ -85,7 +85,7 @@ Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €; subchapter
 - Tor is easy to use, just download the browser
 
 
-a) Install TOR browser and access TOR network (.onion addresses). (Explain in detail how you installed it, and how you got access to TOR).
+## a) Install TOR browser and access TOR network
 
 I googled tor net and the first choice was tor
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/61c681b6-336a-4217-84a6-da8a513a887e)
@@ -101,6 +101,9 @@ and now I'm on the other side, the dark side of the computer world.
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/187028e0-9225-4079-99e7-f1ae0b715302)
 
 The browser suggested for changing the language to English so that my surfing is even more private, so I changed.
+
+## b)  Browse TOR network, find, take screenshots and comment. search engine for onion sites, marketplace, fraud, forum,
+a well known organization
 
 I started browsing Tor... and searched first global arms dealers and was looking if there is a possibility to buy guns online, and yes there is. Actually I've never even checked from the internet, is there same kinds of online shops, so I don't know if this is some how different...
 
@@ -118,22 +121,41 @@ There is lots of different kinds of guns, and not even so expensive..
 
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/b9cc09da-ba9c-47bd-a5fb-ae3da91df167)
 
-
 It's horrible how easy you can buy a gun in the USA. 
 
 But I'm not interested of guns so I changed the subject to drugs and went for looking them :-D
 
-b) Browse TOR network, find, take screenshots and comment. search engine for onion sites, marketplace, fraud, forum,
-a well known organization
+First I only found some artichels about how to buy drugs online, online pharmacy's and articles about drug users, arrests etc... But then I found some cocaine...
+
+![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/0fdf4530-a134-4c3c-85ea-a6b15562ca6c)
+
+But this page is defenetly a scam... or I would never use my bitcoins there...
+
+I am overwhelmed how this dark net is working.. that you find quite easily everything what is illegal, and the markets are huge there.
+
+I am so old school person, that I would never ever trust on encrypted web page, messaging or identity, for making a crime on the dark net.
+
+
+
+
 
 c) Tor browser helps to hide my identity by encrypting my traffic and sending it through a series of randomly picked relays in the Tor. That way the data traces back to random Tor serves rather than me. 
 
+d) What kind of the threat models could TOR fit?
 
-d) What kind of the threat models could TOR fit? (This subtask does not require tests with a computer.)
+PASTA or STRIDE?
+
+Both threat modeling methodologies are used to identify security threats that are potential in a system and develop appropriate countermeasures.
 
 
 Sources:
 
 https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010
 https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
+
+https://aptori.dev/blog/stride-vs-pasta-a-comparison-of-threat-modeling-methodologies
+
+https://purecokeshop.com/
+
+
 
