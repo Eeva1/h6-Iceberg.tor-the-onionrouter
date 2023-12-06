@@ -102,8 +102,7 @@ and now I'm on the other side, the dark side of the computer world.
 
 The browser suggested for changing the language to English so that my surfing is even more private, so I changed.
 
-## b)  Browse TOR network, find, take screenshots and comment. search engine for onion sites, marketplace, fraud, forum,
-a well known organization
+## b)  Browse TOR network, find, take screenshots and comment
 
 I started browsing Tor... and searched first global arms dealers and was looking if there is a possibility to buy guns online, and yes there is. Actually I've never even checked from the internet, is there same kinds of online shops, so I don't know if this is some how different...
 
@@ -138,6 +137,7 @@ Getting into these pages took like 5 minutes to download and after that they stu
 
 ![image](https://github.com/Eeva1/h6-Iceberg.tor-the-onionrouter/assets/149093822/60d0e9e0-eca4-46bf-863d-d50e4147be4d)
 
+All in all, the browser is quite slow so I will continue on the bright side of the net, and keep on using my VPN. 
 
 ## c) Tor browser helps to hide my identity by encrypting my traffic and sending it through a series of randomly picked relays in the Tor. That way the data traces back to random Tor serves rather than me. 
 
